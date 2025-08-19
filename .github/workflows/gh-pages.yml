@@ -1,6 +1,6 @@
 name: Publish GitHub Pages
 
-# Controls when the action will run.
+# Controls when the action will run.q
 on:
   workflow_dispatch:
     inputs:
